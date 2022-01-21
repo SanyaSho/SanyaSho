@@ -1,6 +1,3 @@
 {
-    "test1" : true,
-    "test1path": "https://testpath.team/test1/pngs/%s.png",
-    "test2": false,
-    "test2path": "https://testpath.team/test2/pngs/%s.png"
+    "pigmode" : true,
 }

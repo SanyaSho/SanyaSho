@@ -1,3 +1,4 @@
 {
-    "pigmode": "true"
+    "pigmode": "true",
+    "jokes": ["pigcapes", "pigskins"]
 }

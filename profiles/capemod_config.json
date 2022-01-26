@@ -1,4 +1,6 @@
 {
     "pigmode": "false",
-    "sendMessages": "true"
+    "sendMessages": "true",
+    "skins": "true",
+    "capes" : "true"
 }

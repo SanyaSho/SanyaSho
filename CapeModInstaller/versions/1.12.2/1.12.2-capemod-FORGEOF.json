@@ -806,13 +806,7 @@
       }
     }
   ],
-  "downloads": {
-    "client": {
-      "url": "https://raw.githubusercontent.com/SanyaSho/SanyaSho/master/CapeModInstaller/versions/1.12.2/1.12.2-capemod-FORGEOF.jar",
-      "sha1": "17e0b7e1b3e0480b86c93b7b1f6d0f57672cc086",
-      "size": 9160
-    }
-  },
+  "downloads": {},
   "assetIndex": {
     "totalSize": 129336389,
     "id": "1.12",

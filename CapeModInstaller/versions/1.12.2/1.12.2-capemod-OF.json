@@ -605,13 +605,7 @@
       }
     }
   ],
-  "downloads": {
-    "client": {
-      "url": "https://raw.githubusercontent.com/SanyaSho/SanyaSho/master/CapeModInstaller/versions/1.12.2/1.12.2-capemod-OF.jar",
-      "sha1": "0b50360015342e08279c752b75dd39bee3ff70e8",
-      "size": 9156
-    }
-  },
+  "downloads": {},
   "assetIndex": {
     "totalSize": 129336389,
     "id": "1.12",

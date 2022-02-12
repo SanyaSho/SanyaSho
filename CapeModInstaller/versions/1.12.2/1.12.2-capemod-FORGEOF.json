@@ -811,11 +811,6 @@
       "url": "https://raw.githubusercontent.com/SanyaSho/SanyaSho/master/CapeModInstaller/versions/1.12.2/1.12.2-capemod-FORGEOF.jar",
       "sha1": "17e0b7e1b3e0480b86c93b7b1f6d0f57672cc086",
       "size": 9160
-    },
-    "server": {
-      "url": "https://launcher.mojang.com/v1/objects/886945bfb2b978778c3a0288fd7fab09d315b25f/server.jar",
-      "sha1": "886945bfb2b978778c3a0288fd7fab09d315b25f",
-      "size": 30222121
     }
   },
   "assetIndex": {

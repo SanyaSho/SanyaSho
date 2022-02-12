@@ -1,7 +1,7 @@
 {
   "id": "1.12.2-capemod-OF",
   "family": "1.12",
-  "time": "2022-02-11T12:41:25.108Z",
+  "time": "",
   "releaseTime": "2017-09-18T08:39:46Z",
   "type": "release",
   "minecraftArguments": "--username ${auth_player_name} --version CapeMod --gameDir ${game_directory} --assetsDir ${assets_root} --assetIndex ${assets_index_name} --uuid ${auth_uuid} --accessToken ${auth_access_token} --userType ${user_type} --versionType jar-modified --tweakClass optifine.OptiFineTweaker",
@@ -610,7 +610,7 @@
       "url": "https://raw.githubusercontent.com/SanyaSho/SanyaSho/master/CapeModInstaller/versions/1.12.2/1.12.2-capemod-OF.jar",
       "sha1": "0b50360015342e08279c752b75dd39bee3ff70e8",
       "size": 9156
-    },
+    }
   },
   "assetIndex": {
     "totalSize": 129336389,

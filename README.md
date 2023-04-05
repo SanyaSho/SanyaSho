@@ -51,3 +51,11 @@
 ![newyear_2011](https://raw.githubusercontent.com/SanyaSho/SanyaSho/capemod/profiles/temp_capes/newyear_2011.png)
 ![x360_birthday_new](https://raw.githubusercontent.com/SanyaSho/SanyaSho/capemod/profiles/temp_capes/x360_birthday_new.png)
 ![x360_birthday](https://raw.githubusercontent.com/SanyaSho/SanyaSho/capemod/profiles/temp_capes/x360_birthday.png)
+
+### 23w13a_or_b
+![awesom](https://raw.githubusercontent.com/SanyaSho/SanyaSho/capemod/profiles/23w13a_or_b_caeps/awesom.png)
+![blonk](https://raw.githubusercontent.com/SanyaSho/SanyaSho/capemod/profiles/23w13a_or_b_caeps/blonk.png)
+![no_circle](https://raw.githubusercontent.com/SanyaSho/SanyaSho/capemod/profiles/23w13a_or_b_caeps/no_circle.png)
+![nyan](https://raw.githubusercontent.com/SanyaSho/SanyaSho/capemod/profiles/23w13a_or_b_caeps/nyan.png)
+![squid](https://raw.githubusercontent.com/SanyaSho/SanyaSho/capemod/profiles/23w13a_or_b_caeps/squid.png)
+![veterinarian](https://raw.githubusercontent.com/SanyaSho/SanyaSho/capemod/profiles/23w13a_or_b_caeps/veterinarian.png)
